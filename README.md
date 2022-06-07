@@ -5,6 +5,9 @@
 ## Description
 The goal is to see if we can predict customer churn.
 
+## Setup
+Download the HTML link to view
+
 ## Technologies Applied
 
 *Data Processing and Visualization Modules*
